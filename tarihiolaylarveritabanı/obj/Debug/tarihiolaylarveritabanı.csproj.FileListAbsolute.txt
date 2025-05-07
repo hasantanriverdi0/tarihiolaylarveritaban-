@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.anasayfa.resources
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.Form1.resources
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.olayekle.resources
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.olayoku.resources
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.Properties.Resources.resources
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\bin\Debug\tarihiolaylarveritabanı.exe.config
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\bin\Debug\tarihiolaylarveritabanı.exe
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\bin\Debug\tarihiolaylarveritabanı.pdb
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.exe
+C:\Users\hasan\source\repos\tarihiolaylarveritabanı\tarihiolaylarveritabanı\obj\Debug\tarihiolaylarveritabanı.pdb
